@@ -32,6 +32,8 @@ A scientific research paper on Visual explanations from deep newtorks. Currently
 
 MODULES YOU MIGHT NEED: 
 Opencv documentation https://pypi.org/project/opencv-python/
+Tensorflow documentation https://www.tensorflow.org/api_docs
+
 
 
 
