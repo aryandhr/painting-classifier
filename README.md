@@ -17,9 +17,6 @@ The dataset used for this model can be found at: https://www.kaggle.com/c/painte
 RDay20_PC_STUDENTS_ML2.ipynb :
 Reference file
 
-https://arxiv.org/abs/1610.02391 :
-A scientific research paper on Visual explanations from deep newtorks.
-
 ## License
 This project is licensed under the Apache License.
 
