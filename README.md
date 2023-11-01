@@ -18,7 +18,7 @@ RDay20_PC_STUDENTS_ML2.ipynb :
 Reference file
 
 https://arxiv.org/abs/1610.02391 :
-A scientific research paper on Visual explanations from deep newtorks. Currently not using anything from it but prof might want some bullshit like this. Shows how to use heat maps to get some values for ML. Some cool equations in here as well
+A scientific research paper on Visual explanations from deep newtorks.
 
 ## License
 This project is licensed under the Apache License.
